@@ -6,10 +6,9 @@ Code from completing Android Basics in Kotlin  Read and update data with Room
 Introduction
 ------------
 
-This app is an stater code for an Inventory tracking app. Demos how to add, update, sell, and delete
+This app is an Inventory tracking app. Demos how to add, update, sell, and delete
  items from the local database.
-This app demonstrated
-the use of Android Jetpack component [Room](https://developer.android.com/training/data-storage/room) database.  
+This app demonstrates the use of Android Jetpack component [Room](https://developer.android.com/training/data-storage/room) database.  
 
 The app also leverages [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel),
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata),
@@ -18,6 +17,10 @@ The app also leverages [ViewModel](https://developer.android.com/topic/libraries
 and [Navigation](https://developer.android.com/topic/libraries/architecture/navigation/)
 with the SafeArgs plugin for parameter passing between fragments.
 
+![ItemList](https://user-images.githubusercontent.com/92341925/221746902-aaef4473-9f3d-4598-acfb-c4958c38b197.png)
+![ItemDetails](https://user-images.githubusercontent.com/92341925/221746922-10789236-f185-4a5f-b8aa-4908c66c05c7.png)
+![editItemMenu](https://user-images.githubusercontent.com/92341925/221746962-727aff88-ec87-412c-8a1d-c25bf0a2ecfd.png)
+![AddItem](https://user-images.githubusercontent.com/92341925/221747020-681be2c9-fd54-4fec-a25f-33bd248bdb4b.png)
 
 # There are three major components in Room:
 
